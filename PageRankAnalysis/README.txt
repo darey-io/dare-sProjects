@@ -5,3 +5,4 @@ Tasks 1. Load PageRank dataset into an RDD
 5. Each node transfers its rank equally to its neighbors 
 6. Apply a reduce operation on thw RDD to sum up values for the same node 
 7. Apply the damping factor and use these as the updated ranks RDD 8. Repeat steps 4-7
+8.
